@@ -17,8 +17,8 @@ overflow: hidden;
 }
 
 h1 {
-  font-size: 2em;
-  margin-bottom: 20px;
+  font-size: 1.5em;
+  margin-bottom: 15px;
   text-align:center;
 }
 
@@ -148,4 +148,9 @@ input:checked ~ .questions {
   opacity: 1;
   z-index: 100;
   transform: scaleY(1);
+}
+
+#sidebar {
+  float: right;
+  width: 100%;
 }
