@@ -154,3 +154,15 @@ input:checked ~ .questions {
   float: right;
   width: 100%;
 }
+ol li {
+  list-style-type: none;
+  color:blue;
+}
+
+.quicklinks {
+  font-size: 1.5em;
+  margin-bottom: 15px;
+  position: absolute;
+  right: 150px;
+  top: 75px;
+}
