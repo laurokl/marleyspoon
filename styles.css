@@ -166,3 +166,11 @@ ol li {
   right: 150px;
   top: 75px;
 }
+
+.refunds {
+  font-size: 1.5em;
+  margin-bottom: 15px;
+  position: absolute;
+  left: 75px;
+  top: 75px;
+}
